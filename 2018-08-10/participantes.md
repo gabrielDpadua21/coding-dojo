@@ -1,7 +1,7 @@
 - @laurenmariaferreira
 - @edsonyamamoto
 - @cacarrara
-- @gabrielDpadua
+- @gabrielDpadua21
 - @cauethenorio
 - @thiagolopes
 - @pedro-walter
